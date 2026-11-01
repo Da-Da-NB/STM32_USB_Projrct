@@ -1,2 +1,2 @@
-# STM32USB-
-基于标准库的STM32USB鼠标
+一些关于STM32F103C8T6的USB项目
+
